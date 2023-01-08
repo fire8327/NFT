@@ -6,6 +6,7 @@ tailwind.config = {
         'figmabg2':'#262627',
         'figmabutton':'#D400B3',
         'figmatext':'#E5E5E5',
+        'figmaborder':'#C4C4C4',
         },
       },
   },
